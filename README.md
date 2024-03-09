@@ -68,14 +68,14 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/YS996X/YS996X/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/~YS">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=~YS&count=1" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
