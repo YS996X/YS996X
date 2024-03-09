@@ -68,7 +68,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/YS996X/YS996X/output/snake.svg" alt="Snake animation" />
+<img src="snake.svg" alt="Snake animation" />
 
 ###
 
