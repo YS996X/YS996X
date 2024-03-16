@@ -59,11 +59,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/YS996X/YS996X/output/snake.svg" alt="Snake animation" />
-
 ###
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31uqnni7rcb5mlgqknej44h3ed4y)
 ###
