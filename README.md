@@ -2,14 +2,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YS996X&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://media.discordapp.net/attachments/1206022646786035783/1215871013196398653/anime-death-note-l-death-note-rain-hd-wallpaper-thumb.jpg?ex=65fe531f&is=65ebde1f&hm=2d4929856c9c462b209ce568004e4e7f79cade87ed358f37d7ecd172ca2046ec&=&format=webp&width=491&height=386"  />
 
 ###
@@ -67,6 +59,19 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/YS996X/YS996X/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/~YS">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=~YS&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
+
 ###
 
 <div align="center">
